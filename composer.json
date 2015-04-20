@@ -1,0 +1,10 @@
+{
+    "name": "skedo/curatrix-monitor",
+    "authors": [
+        {
+            "name": "Edoardo Biraghi",
+            "email": "edoardo.biraghi@gmail.com"
+        }
+    ],
+    "require": {}
+}
